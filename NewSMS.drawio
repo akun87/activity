@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-06T09:04:02.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="vbNGqcRdOxrpq_ER7wt_" version="12.2.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-06T09:09:36.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="yh-iujGr-M_Mz12Bl38W" version="12.2.0" type="github" pages="1">
   <diagram id="TEr-i3hXzBpxG9_pwskx" name="Page-1">
     <mxGraphModel dx="1410" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="14zkq9FagbulSUfMpFAQ-8" value="&lt;div&gt;直接响应JSON成功&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="373" width="140" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="14zkq9FagbulSUfMpFAQ-11" value="&lt;div&gt;模板策略检验&lt;/div&gt;&lt;div&gt;1、该模板短信发送频次&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="14zkq9FagbulSUfMpFAQ-11" value="&lt;div&gt;模板策略检验&lt;/div&gt;&lt;div&gt;1、该模板短信发送频次&lt;br&gt;&lt;/div&gt;&lt;div&gt;...&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="500" width="140" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="14zkq9FagbulSUfMpFAQ-13" value="&lt;div&gt;不符合模板策略&lt;/div&gt;&lt;div&gt;过滤掉&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
