@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-06T09:25:29.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="wm4dIvp7wAPMtRKsn1yR" version="12.2.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-06T09:34:58.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="VuHZ9XuHoyCM8garwaRs" version="12.2.0" type="github" pages="1">
   <diagram id="TEr-i3hXzBpxG9_pwskx" name="Page-1">
     <mxGraphModel dx="1410" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -231,7 +231,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="14zkq9FagbulSUfMpFAQ-85" value="&lt;div&gt;记录info级别日志&lt;/div&gt;&lt;div&gt;Inr Redis累加存储&lt;/div&gt;&lt;div&gt;添加redis缓存策略规则&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="14zkq9FagbulSUfMpFAQ-85" value="&lt;div&gt;记录info级别日志&lt;/div&gt;&lt;div&gt;Inr Redis累加存储&lt;/div&gt;&lt;div&gt;redis策略规则&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="950" width="130" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="14zkq9FagbulSUfMpFAQ-86" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
