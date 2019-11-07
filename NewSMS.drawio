@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-07T03:32:09.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="_sAeFONGuluTEnLGaObz" version="12.2.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-07T03:36:51.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="2UGn9odwFO7Q06Zfuu40" version="12.2.2" type="github" pages="1">
   <diagram id="TEr-i3hXzBpxG9_pwskx" name="Page-1">
     <mxGraphModel dx="1024" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -209,7 +209,7 @@
             <mxPoint x="250" y="820" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="14zkq9FagbulSUfMpFAQ-80" value="&lt;div&gt;gocron&lt;/div&gt;&lt;div&gt;每6个小时&lt;/div&gt;&lt;div&gt;刷新未同步的数据&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="14zkq9FagbulSUfMpFAQ-80" value="&lt;div&gt;gocron&lt;/div&gt;&lt;div&gt;每2个小时&lt;/div&gt;&lt;div&gt;刷新未同步的数据&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="660" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="14zkq9FagbulSUfMpFAQ-81" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.7;entryDx=0;entryDy=0;" parent="1" target="14zkq9FagbulSUfMpFAQ-24" edge="1">
