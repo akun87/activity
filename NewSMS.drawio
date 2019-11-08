@@ -1,10 +1,10 @@
-<mxfile host="www.draw.io" modified="2019-11-08T03:14:17.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="Xrw5cQEgsY_jso2lN_FC" version="12.2.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-08T03:29:54.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="pobb2Nb770xB4wB2JoTG" version="12.2.2" type="github" pages="1">
   <diagram id="TEr-i3hXzBpxG9_pwskx" name="Page-1">
     <mxGraphModel dx="1024" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="14zkq9FagbulSUfMpFAQ-1" value="&lt;div&gt;短息Http请求/响应&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="14zkq9FagbulSUfMpFAQ-1" value="&lt;div&gt;短息Http请求/响应&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="190" y="70" width="130" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="14zkq9FagbulSUfMpFAQ-2" value="&lt;div&gt;参数模板等&lt;/div&gt;&lt;div&gt;相关参数校验&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -34,7 +34,7 @@
         <mxCell id="14zkq9FagbulSUfMpFAQ-14" value="&lt;div&gt;协程处理&lt;/div&gt;&lt;div&gt;记录info级别日志&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="500" width="130" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="14zkq9FagbulSUfMpFAQ-17" value="&lt;div&gt;暂且Redis List生产队列&lt;/div&gt;&lt;div&gt;或发布/订阅&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="14zkq9FagbulSUfMpFAQ-17" value="&lt;div&gt;Redis List&lt;/div&gt;&lt;div&gt;生产队列&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="600" width="80" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="14zkq9FagbulSUfMpFAQ-18" value="&lt;div&gt;生产队列失败&lt;/div&gt;&lt;div&gt;或redis挂掉&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -43,7 +43,7 @@
         <mxCell id="14zkq9FagbulSUfMpFAQ-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="14zkq9FagbulSUfMpFAQ-20" target="14zkq9FagbulSUfMpFAQ-21" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="14zkq9FagbulSUfMpFAQ-20" value="&lt;div&gt;消费协程&lt;/div&gt;&lt;div&gt;限流2000/s&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="14zkq9FagbulSUfMpFAQ-20" value="&lt;div&gt;消费协程gocron&lt;/div&gt;&lt;div&gt;限流1000/s&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="420" y="720" width="80" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="14zkq9FagbulSUfMpFAQ-21" value="&lt;div&gt;消费队列失败&lt;/div&gt;&lt;div&gt;或挂掉，无持久化&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -149,12 +149,6 @@
             <mxPoint x="260" y="482.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="14zkq9FagbulSUfMpFAQ-61" value="" style="endArrow=classic;html=1;entryX=0.679;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="431" y="660" as="sourcePoint"/>
-            <mxPoint x="431.05999999999995" y="720" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="14zkq9FagbulSUfMpFAQ-66" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="670" y="749" as="sourcePoint"/>
@@ -173,7 +167,7 @@
             <mxPoint x="320" y="790" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="14zkq9FagbulSUfMpFAQ-72" value="&lt;div&gt;容错DB从库继续处理&lt;/div&gt;&lt;div&gt;协程限流200/s&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="14zkq9FagbulSUfMpFAQ-72" value="&lt;div&gt;容错DB从库继续处理&lt;/div&gt;&lt;div&gt;gocron&lt;/div&gt;&lt;div&gt;协程限流100/s&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="840" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="14zkq9FagbulSUfMpFAQ-73" value="" style="endArrow=classic;html=1;" parent="1" target="14zkq9FagbulSUfMpFAQ-72" edge="1">
@@ -209,7 +203,7 @@
             <mxPoint x="250" y="820" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="14zkq9FagbulSUfMpFAQ-80" value="&lt;div&gt;gocron&lt;/div&gt;&lt;div&gt;每2个小时&lt;/div&gt;&lt;div&gt;刷新未同步的数据&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="14zkq9FagbulSUfMpFAQ-80" value="&lt;div&gt;gocron&lt;/div&gt;&lt;div&gt;每1个小时&lt;/div&gt;&lt;div&gt;刷未同步的数据&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="660" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="14zkq9FagbulSUfMpFAQ-81" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.7;entryDx=0;entryDy=0;" parent="1" target="14zkq9FagbulSUfMpFAQ-24" edge="1">
@@ -231,7 +225,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="14zkq9FagbulSUfMpFAQ-85" value="&lt;div&gt;记录info级别日志&lt;/div&gt;&lt;div&gt;Inr Redis累加存储&lt;/div&gt;&lt;div&gt;redis策略规则&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="14zkq9FagbulSUfMpFAQ-85" value="&lt;div&gt;记录info级别日志&lt;/div&gt;&lt;div&gt;变更 Inr Redis&lt;/div&gt;&lt;div&gt;redis策略规则&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="950" width="130" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="14zkq9FagbulSUfMpFAQ-86" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
