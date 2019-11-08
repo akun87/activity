@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-07T03:36:51.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="2UGn9odwFO7Q06Zfuu40" version="12.2.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-08T03:14:17.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="Xrw5cQEgsY_jso2lN_FC" version="12.2.2" type="github" pages="1">
   <diagram id="TEr-i3hXzBpxG9_pwskx" name="Page-1">
     <mxGraphModel dx="1024" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="14zkq9FagbulSUfMpFAQ-8" value="&lt;div&gt;直接响应JSON成功&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="373" width="140" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="14zkq9FagbulSUfMpFAQ-11" value="&lt;div&gt;模板策略检验&lt;/div&gt;&lt;div&gt;1、该模板短信发送频次&lt;br&gt;&lt;/div&gt;&lt;div&gt;...&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="14zkq9FagbulSUfMpFAQ-11" value="&lt;div&gt;模板策略检验&lt;/div&gt;&lt;div&gt;1、该模板短信发送频率&lt;br&gt;&lt;/div&gt;&lt;div&gt;...&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="500" width="140" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="14zkq9FagbulSUfMpFAQ-13" value="&lt;div&gt;不符合模板策略&lt;/div&gt;&lt;div&gt;过滤掉&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -43,7 +43,7 @@
         <mxCell id="14zkq9FagbulSUfMpFAQ-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="14zkq9FagbulSUfMpFAQ-20" target="14zkq9FagbulSUfMpFAQ-21" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="14zkq9FagbulSUfMpFAQ-20" value="&lt;div&gt;消费/或定时消费协程&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="14zkq9FagbulSUfMpFAQ-20" value="&lt;div&gt;消费协程&lt;/div&gt;&lt;div&gt;限流2000/s&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="720" width="80" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="14zkq9FagbulSUfMpFAQ-21" value="&lt;div&gt;消费队列失败&lt;/div&gt;&lt;div&gt;或挂掉，无持久化&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -173,7 +173,7 @@
             <mxPoint x="320" y="790" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="14zkq9FagbulSUfMpFAQ-72" value="&lt;div&gt;容错DB从库继续处理&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="14zkq9FagbulSUfMpFAQ-72" value="&lt;div&gt;容错DB从库继续处理&lt;/div&gt;&lt;div&gt;协程限流200/s&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="840" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="14zkq9FagbulSUfMpFAQ-73" value="" style="endArrow=classic;html=1;" parent="1" target="14zkq9FagbulSUfMpFAQ-72" edge="1">
