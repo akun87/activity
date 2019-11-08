@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-08T03:43:30.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="3xdGUqahMBqltsiJi5JY" version="12.2.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-08T03:45:48.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="X5ox4BpZAgO-4b07rzGU" version="12.2.2" type="github" pages="1">
   <diagram id="TEr-i3hXzBpxG9_pwskx" name="Page-1">
     <mxGraphModel dx="1024" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,11 +10,8 @@
         <mxCell id="14zkq9FagbulSUfMpFAQ-2" value="&lt;div&gt;参数模板等&lt;/div&gt;&lt;div&gt;相关参数校验&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="170" width="140" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="14zkq9FagbulSUfMpFAQ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="14zkq9FagbulSUfMpFAQ-4" value="&lt;div&gt;校验参数不合法 &lt;br&gt;&lt;/div&gt;&lt;div&gt;返回JSON相关错误提示&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="170" width="140" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="14zkq9FagbulSUfMpFAQ-5" value="&lt;div&gt;校验参数不合法 &lt;br&gt;&lt;/div&gt;&lt;div&gt;返回JSON相关错误提示&lt;/div&gt;" style="text;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="190" width="120" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="14zkq9FagbulSUfMpFAQ-6" value="&lt;div&gt;检索手机号24H发送次数&lt;/div&gt;&lt;div&gt;(Inr Redis累加存储&lt;/div&gt;&lt;div&gt;总次数在配置文件)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="189" y="271" width="140" height="60" as="geometry"/>
@@ -109,10 +106,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="14zkq9FagbulSUfMpFAQ-54" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="14zkq9FagbulSUfMpFAQ-5" edge="1">
+        <mxCell id="14zkq9FagbulSUfMpFAQ-54" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="205" as="sourcePoint"/>
-            <mxPoint x="369" y="155" as="targetPoint"/>
+            <mxPoint x="360" y="205" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="14zkq9FagbulSUfMpFAQ-55" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="14zkq9FagbulSUfMpFAQ-11" edge="1">
