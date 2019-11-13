@@ -1,9 +1,12 @@
-<mxfile host="www.draw.io" modified="2019-11-13T10:24:38.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="hF-aH_uAsCCtq95_ffz1" version="12.2.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-13T10:32:10.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="POQ6-ArYriqpnBcsWgc1" version="12.2.4" type="github" pages="1">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1024" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="NsZce1ZorsWD20Aph8DO-130" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="880" width="605" height="110" as="geometry"/>
+        </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="170" y="260" width="520" height="260" as="geometry"/>
         </mxCell>
@@ -72,7 +75,7 @@
         <mxCell id="28" value="记录INFO级别日志" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="255.5" y="1440" width="130" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="29" value="&lt;div&gt;aliyunSMS&lt;br&gt;&lt;/div&gt;&lt;div&gt;发送&lt;/div&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="29" value="&lt;div&gt;阿里云SMS&lt;br&gt;&lt;/div&gt;&lt;div&gt;发送&lt;/div&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="510.5" y="1440" width="130" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="30" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" edge="1">
@@ -105,9 +108,6 @@
               <mxPoint x="119.5" y="1000"/>
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="55" value="no" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="235.5" y="2104" width="40" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-55" value="&lt;div&gt;不符合条件&lt;/div&gt;&lt;div&gt;返回Json错误提示&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="480.5" y="280" width="140" height="70" as="geometry"/>
@@ -198,7 +198,7 @@
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-86" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1">
           <mxGeometry x="485" y="-91" width="100" height="100" as="geometry">
-            <mxPoint x="807" y="1090" as="sourcePoint"/>
+            <mxPoint x="807" y="1100" as="sourcePoint"/>
             <mxPoint x="807" y="1159" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
@@ -264,7 +264,7 @@
           <mxGeometry x="910" y="1309" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-109" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;检索文件&lt;/div&gt;&lt;div&gt;找到游标位置&lt;/div&gt;&lt;div&gt;如果有数据&lt;/div&gt;&lt;div&gt;继续发送&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="766" y="1010" width="121" height="80" as="geometry"/>
+          <mxGeometry x="771" y="1029" width="121" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-73" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Redis链接异常&lt;br&gt;&lt;/div&gt;&lt;div&gt;消费失败&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="1020" width="130" height="100" as="geometry"/>
@@ -302,6 +302,27 @@
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-120" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Gocron任务事件&lt;/div&gt;&lt;div&gt;发送&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="265.5" y="880" width="120" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="NsZce1ZorsWD20Aph8DO-127" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="722.5" y="895" width="60" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="NsZce1ZorsWD20Aph8DO-128" value="&lt;div&gt;Gocron任务事件&lt;/div&gt;&lt;div&gt;每30分钟同步一次&lt;/div&gt;&lt;div&gt;阿里云短息发送情况&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="494" y="905" width="155" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="NsZce1ZorsWD20Aph8DO-129" value="&lt;div&gt;Gocron任务事件&lt;/div&gt;&lt;div&gt;每6个小时同步一次&lt;/div&gt;&lt;div&gt;阿里云短息模板&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="854" y="905" width="155" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="NsZce1ZorsWD20Aph8DO-133" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NsZce1ZorsWD20Aph8DO-127">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="935" as="sourcePoint"/>
+            <mxPoint x="710" y="920" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NsZce1ZorsWD20Aph8DO-134" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="781.5" y="935" as="sourcePoint"/>
+            <mxPoint x="854" y="935" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
