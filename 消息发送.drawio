@@ -1,10 +1,10 @@
-<mxfile host="www.draw.io" modified="2019-11-13T10:32:10.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="POQ6-ArYriqpnBcsWgc1" version="12.2.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-13T10:38:15.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="n0ZC1xlbWjaxH7n9Aw5o" version="12.2.4" type="github" pages="1">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1024" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="NsZce1ZorsWD20Aph8DO-130" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NsZce1ZorsWD20Aph8DO-130" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="450" y="880" width="605" height="110" as="geometry"/>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -57,13 +57,10 @@
             <mxPoint x="479.5" y="600" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="20" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;存Redis&lt;/div&gt;&lt;div&gt;List LPush&lt;/div&gt;&lt;div&gt;队列&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.manual_input;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="241.5" y="700" width="158" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="21" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;entryX=0.5;entryY=0.195;entryPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="13" target="20" edge="1">
+        <mxCell id="21" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;entryX=0.5;entryY=0.195;entryPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="13" edge="1">
           <mxGeometry x="-0.5" y="-80" width="100" height="100" as="geometry">
             <mxPoint x="-0.5" y="20" as="sourcePoint"/>
-            <mxPoint x="99.5" y="-80" as="targetPoint"/>
+            <mxPoint x="321" y="716" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="25" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.5;exitY=0.9;exitPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" edge="1">
@@ -127,10 +124,10 @@
             <mxPoint x="100.5" y="-355" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NsZce1ZorsWD20Aph8DO-60" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;@TODO这两步是否加验证&lt;/div&gt;&lt;div&gt;加的原因可以返回错误提示&lt;/div&gt;&lt;div&gt;消费时可以不用再加策略验证&lt;/div&gt;&lt;div&gt;不加的话可以在消费加策略&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="689.5" y="342" width="240" height="88" as="geometry"/>
+        <mxCell id="NsZce1ZorsWD20Aph8DO-60" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;@Todo 这两步是否加验证&lt;/div&gt;&lt;div&gt;加的原因可以返回错误提示&lt;/div&gt;&lt;div&gt;消费时可以不用再加策略验证&lt;/div&gt;&lt;div&gt;不加的话可以在消费加策略&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="690" y="342" width="221" height="78" as="geometry"/>
         </mxCell>
-        <mxCell id="NsZce1ZorsWD20Aph8DO-61" value="&lt;div&gt;存文件&lt;/div&gt;&lt;div&gt;Json&lt;br&gt;&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NsZce1ZorsWD20Aph8DO-61" value="&lt;div&gt;存文件&lt;/div&gt;&lt;div&gt;Json格式&lt;br&gt;&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480.5" y="560" width="100" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-62" value="&lt;div&gt;策略&lt;/div&gt;&lt;div&gt;1.频率限制&lt;/div&gt;&lt;div&gt;2.时间范围&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -303,10 +300,10 @@
         <mxCell id="NsZce1ZorsWD20Aph8DO-120" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Gocron任务事件&lt;/div&gt;&lt;div&gt;发送&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="265.5" y="880" width="120" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="NsZce1ZorsWD20Aph8DO-127" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="NsZce1ZorsWD20Aph8DO-127" value="库" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="722.5" y="895" width="60" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="NsZce1ZorsWD20Aph8DO-128" value="&lt;div&gt;Gocron任务事件&lt;/div&gt;&lt;div&gt;每30分钟同步一次&lt;/div&gt;&lt;div&gt;阿里云短息发送情况&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NsZce1ZorsWD20Aph8DO-128" value="&lt;div&gt;Gocron任务事件&lt;/div&gt;&lt;div&gt;每30分钟同步未同步的数据&lt;/div&gt;&lt;div&gt;阿里云短息发送情况&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="494" y="905" width="155" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-129" value="&lt;div&gt;Gocron任务事件&lt;/div&gt;&lt;div&gt;每6个小时同步一次&lt;/div&gt;&lt;div&gt;阿里云短息模板&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -323,6 +320,9 @@
             <mxPoint x="781.5" y="935" as="sourcePoint"/>
             <mxPoint x="854" y="935" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NsZce1ZorsWD20Aph8DO-135" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;存Redis&lt;/div&gt;&lt;div&gt;List LPush&lt;/div&gt;&lt;div&gt;队列&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270.5" y="718" width="100" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
