@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-13T10:57:03.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="7-Ta2fUOAAU00tzOnlfm" version="12.2.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-13T10:57:55.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="exDbBzfXYJ_WelcnlJqO" version="12.2.4" type="github" pages="1">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1024" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -119,7 +119,7 @@
           <mxGeometry x="690" y="342" width="200" height="78" as="geometry"/>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-61" value="&lt;div&gt;存文件&lt;/div&gt;&lt;div&gt;Json格式&lt;br&gt;&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="481" y="560" width="120" height="80" as="geometry"/>
+          <mxGeometry x="481" y="560" width="129" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-62" value="&lt;div&gt;策略&lt;/div&gt;&lt;div&gt;1.频率限制&lt;/div&gt;&lt;div&gt;2.时间范围&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="235.5" y="1301" width="159" height="80" as="geometry"/>
