@@ -1,23 +1,23 @@
-<mxfile host="www.draw.io" modified="2019-11-13T08:46:54.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="JliMMFiyZEkj_n0TgEkN" version="12.2.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-13T09:43:03.496Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="HNZ7igZXXqYQKE9NnXI2" version="12.2.4" type="github" pages="1">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1024" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="NsZce1ZorsWD20Aph8DO-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="240" width="520" height="240" as="geometry"/>
+          <mxGeometry x="170" y="230" width="520" height="240" as="geometry"/>
         </mxCell>
         <mxCell id="2" value="短信Http请求/相应" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="260" y="20" width="120" height="70" as="geometry"/>
+          <mxGeometry x="260" y="10" width="120" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="3" value="基本参数验证" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240.5" y="130" width="159" height="80" as="geometry"/>
+          <mxGeometry x="240.5" y="120" width="159" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="4" value="策略频率限制" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="235.5" y="390" width="159" height="80" as="geometry"/>
+          <mxGeometry x="235.5" y="380" width="159" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="5" value="&lt;div&gt;24H(1day)&lt;/div&gt;&lt;div&gt;限制10条数验证&lt;/div&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240.5" y="250" width="159" height="80" as="geometry"/>
+          <mxGeometry x="240.5" y="240" width="159" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="7" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="2" target="3" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -27,88 +27,85 @@
         </mxCell>
         <mxCell id="9" style="entryX=0.5;entryY=0;entryPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="390" as="targetPoint"/>
+            <mxPoint x="320" y="380" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="13" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;协程处理&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240.5" y="640" width="159" height="80" as="geometry"/>
+          <mxGeometry x="240" y="560" width="159" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="15" value="&lt;div&gt;不符合条件&lt;/div&gt;&lt;div&gt;Json返回错误提示&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="475" y="395" width="140" height="70" as="geometry"/>
+          <mxGeometry x="475" y="385" width="140" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="16" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.905;exitY=0.5;exitPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="4" target="15" edge="1">
-          <mxGeometry x="-5" y="-120" width="100" height="100" as="geometry">
-            <mxPoint x="-5" y="-20" as="sourcePoint"/>
-            <mxPoint x="95" y="-120" as="targetPoint"/>
+          <mxGeometry x="-5" y="-130" width="100" height="100" as="geometry">
+            <mxPoint x="-5" y="-30" as="sourcePoint"/>
+            <mxPoint x="95" y="-130" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="17" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="4" target="13" edge="1">
-          <mxGeometry width="100" height="100" as="geometry">
-            <mxPoint y="100" as="sourcePoint"/>
-            <mxPoint x="100" as="targetPoint"/>
+        <mxCell id="17" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="4" edge="1">
+          <mxGeometry y="-10" width="100" height="100" as="geometry">
+            <mxPoint y="90" as="sourcePoint"/>
+            <mxPoint x="318" y="560" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="19" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.905;exitY=0.5;exitPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="13" edge="1">
-          <mxGeometry width="100" height="100" as="geometry">
-            <mxPoint y="100" as="sourcePoint"/>
-            <mxPoint x="480" y="680" as="targetPoint"/>
+          <mxGeometry x="-0.5" y="-80" width="100" height="100" as="geometry">
+            <mxPoint x="-0.5" y="20" as="sourcePoint"/>
+            <mxPoint x="479.5" y="600" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="20" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;存Redis&lt;/div&gt;&lt;div&gt;List LPush&lt;/div&gt;&lt;div&gt;队列&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.manual_input;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="242" y="780" width="158" height="80" as="geometry"/>
+          <mxGeometry x="241.5" y="700" width="158" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="21" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;entryX=0.5;entryY=0.195;entryPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="13" target="20" edge="1">
-          <mxGeometry width="100" height="100" as="geometry">
-            <mxPoint y="100" as="sourcePoint"/>
-            <mxPoint x="100" as="targetPoint"/>
+          <mxGeometry x="-0.5" y="-80" width="100" height="100" as="geometry">
+            <mxPoint x="-0.5" y="20" as="sourcePoint"/>
+            <mxPoint x="99.5" y="-80" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="22" value="发送" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="241" y="1080" width="159" height="90" as="geometry"/>
+        <mxCell id="22" value="&lt;div&gt;gocron&lt;/div&gt;&lt;div&gt;发送&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="241" y="870" width="159" height="90" as="geometry"/>
         </mxCell>
-        <mxCell id="24" value="&lt;div&gt;Redis&lt;/div&gt;&lt;div&gt;List RPop 消费&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="262" y="1240" width="119" height="78.5" as="geometry"/>
-        </mxCell>
-        <mxCell id="25" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.5;exitY=0.9;exitPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="22" target="24" edge="1">
-          <mxGeometry x="0.5" y="160" width="100" height="100" as="geometry">
-            <mxPoint x="0.5" y="260" as="sourcePoint"/>
-            <mxPoint x="100.5" y="160" as="targetPoint"/>
+        <mxCell id="25" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.5;exitY=0.9;exitPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="22" edge="1">
+          <mxGeometry x="0.5" y="-50" width="100" height="100" as="geometry">
+            <mxPoint x="0.5" y="50" as="sourcePoint"/>
+            <mxPoint x="321" y="1030" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="28" value="&lt;div&gt;gocron&lt;/div&gt;&lt;div&gt;协程处理100/s&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="255.5" y="1690" width="130" height="100" as="geometry"/>
+        <mxCell id="28" value="记录INFO级别日志" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="255.5" y="1440" width="130" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="29" value="发送成功" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510.5" y="1690" width="130" height="100" as="geometry"/>
+          <mxGeometry x="510.5" y="1440" width="130" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="30" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.5;exitY=1;exitPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="24" edge="1">
-          <mxGeometry x="0.5" y="160" width="100" height="100" as="geometry">
-            <mxPoint x="0.5" y="260" as="sourcePoint"/>
-            <mxPoint x="322" y="1410" as="targetPoint"/>
+        <mxCell id="30" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" edge="1">
+          <mxGeometry x="0.5" y="-90" width="100" height="100" as="geometry">
+            <mxPoint x="322" y="1090" as="sourcePoint"/>
+            <mxPoint x="322" y="1160" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="31" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="28" edge="1">
-          <mxGeometry x="0.5" y="480" width="100" height="100" as="geometry">
-            <mxPoint x="0.5" y="580" as="sourcePoint"/>
-            <mxPoint x="511" y="1740" as="targetPoint"/>
+          <mxGeometry x="0.5" y="230" width="100" height="100" as="geometry">
+            <mxPoint x="0.5" y="330" as="sourcePoint"/>
+            <mxPoint x="511" y="1490" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="33" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="NsZce1ZorsWD20Aph8DO-85" target="29" edge="1">
-          <mxGeometry x="0.5" y="480" width="100" height="100" as="geometry">
-            <mxPoint x="750" y="1850" as="sourcePoint"/>
-            <mxPoint x="800" y="1750" as="targetPoint"/>
+          <mxGeometry x="0.5" y="230" width="100" height="100" as="geometry">
+            <mxPoint x="750" y="1600" as="sourcePoint"/>
+            <mxPoint x="800" y="1500" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="810" y="1740"/>
+              <mxPoint x="810" y="1490"/>
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="54" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;entryX=0;entryY=0.5;entryPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;entryDx=0;entryDy=0;" parent="1" target="2" edge="1">
-          <mxGeometry width="100" height="100" as="geometry">
-            <mxPoint x="120" y="640" as="sourcePoint"/>
-            <mxPoint x="100" as="targetPoint"/>
+          <mxGeometry y="-10" width="100" height="100" as="geometry">
+            <mxPoint x="120" y="560" as="sourcePoint"/>
+            <mxPoint x="100" y="-10" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="120" y="80"/>
-              <mxPoint x="120" y="970"/>
+              <mxPoint x="120" y="70"/>
+              <mxPoint x="120" y="960"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -116,154 +113,160 @@
           <mxGeometry x="235.5" y="2104" width="40" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-55" value="&lt;div&gt;不符合条件&lt;/div&gt;&lt;div&gt;Json返回错误提示&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="481" y="250" width="140" height="70" as="geometry"/>
+          <mxGeometry x="481" y="240" width="140" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-56" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.905;exitY=0.5;exitPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1" target="NsZce1ZorsWD20Aph8DO-55">
-          <mxGeometry x="1" y="-265" width="100" height="100" as="geometry">
-            <mxPoint x="385" y="285" as="sourcePoint"/>
-            <mxPoint x="101" y="-265" as="targetPoint"/>
+          <mxGeometry x="1" y="-275" width="100" height="100" as="geometry">
+            <mxPoint x="385" y="275" as="sourcePoint"/>
+            <mxPoint x="101" y="-275" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-57" value="&lt;div&gt;不符合条件&lt;/div&gt;&lt;div&gt;Json返回错误提示&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="481" y="130" width="140" height="70" as="geometry"/>
+          <mxGeometry x="481" y="120" width="140" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-58" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.905;exitY=0.5;exitPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1" target="NsZce1ZorsWD20Aph8DO-57">
-          <mxGeometry x="1" y="-385" width="100" height="100" as="geometry">
-            <mxPoint x="385" y="165" as="sourcePoint"/>
-            <mxPoint x="101" y="-385" as="targetPoint"/>
+          <mxGeometry x="1" y="-395" width="100" height="100" as="geometry">
+            <mxPoint x="385" y="155" as="sourcePoint"/>
+            <mxPoint x="101" y="-395" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-60" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;这两步是否加验证&lt;/div&gt;&lt;div&gt;加的原因可以返回错误提示&lt;/div&gt;&lt;div&gt;消费时可以不用再加策略验证&lt;/div&gt;&lt;div&gt;不加的话可以在消费加策略&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="690" y="302" width="240" height="88" as="geometry"/>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-61" value="&lt;div&gt;存文件&lt;/div&gt;&lt;div&gt;Json&lt;br&gt;&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="481" y="640" width="100" height="80" as="geometry"/>
+          <mxGeometry x="480.5" y="560" width="100" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-62" value="&lt;div&gt;策略&lt;/div&gt;&lt;div&gt;1.频率限制&lt;/div&gt;&lt;div&gt;2.时间范围&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235.5" y="1551" width="159" height="80" as="geometry"/>
+          <mxGeometry x="235.5" y="1301" width="159" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-63" value="&lt;div&gt;24H&lt;/div&gt;&lt;div&gt;限制10条数验证&lt;/div&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240.5" y="1411" width="159" height="80" as="geometry"/>
+          <mxGeometry x="240.5" y="1161" width="159" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="NsZce1ZorsWD20Aph8DO-64" value="&lt;div&gt;不符合条件&lt;/div&gt;&lt;div&gt;过滤消费掉&lt;/div&gt;" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="475" y="1556" width="140" height="70" as="geometry"/>
-        </mxCell>
-        <mxCell id="NsZce1ZorsWD20Aph8DO-65" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.905;exitY=0.5;exitPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1" source="NsZce1ZorsWD20Aph8DO-62" target="NsZce1ZorsWD20Aph8DO-64">
-          <mxGeometry x="-5" y="1041" width="100" height="100" as="geometry">
-            <mxPoint x="-5" y="1141" as="sourcePoint"/>
-            <mxPoint x="95" y="1041" as="targetPoint"/>
+        <mxCell id="NsZce1ZorsWD20Aph8DO-65" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1">
+          <mxGeometry x="-64.5" y="795" width="100" height="100" as="geometry">
+            <mxPoint x="250" y="1344" as="sourcePoint"/>
+            <mxPoint x="180" y="1344" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NsZce1ZorsWD20Aph8DO-66" value="&lt;div&gt;不符合条件&lt;/div&gt;&lt;div&gt;过滤消费掉&lt;/div&gt;" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="481" y="1411" width="140" height="70" as="geometry"/>
-        </mxCell>
-        <mxCell id="NsZce1ZorsWD20Aph8DO-67" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.905;exitY=0.5;exitPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1" target="NsZce1ZorsWD20Aph8DO-66">
-          <mxGeometry x="1" y="896" width="100" height="100" as="geometry">
-            <mxPoint x="385" y="1446" as="sourcePoint"/>
-            <mxPoint x="101" y="896" as="targetPoint"/>
+        <mxCell id="NsZce1ZorsWD20Aph8DO-67" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;exitX=0.095;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NsZce1ZorsWD20Aph8DO-63">
+          <mxGeometry x="-58.5" y="650" width="100" height="100" as="geometry">
+            <mxPoint x="380" y="1200" as="sourcePoint"/>
+            <mxPoint x="180" y="1201" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-68" style="entryX=0.5;entryY=0;entryPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="321.5" y="1490" as="sourcePoint"/>
-            <mxPoint x="321.5" y="1550" as="targetPoint"/>
+            <mxPoint x="321.5" y="1240" as="sourcePoint"/>
+            <mxPoint x="321.5" y="1300" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-69" style="entryX=0.5;entryY=0;entryPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="319.5" y="1631" as="sourcePoint"/>
-            <mxPoint x="319.5" y="1691" as="targetPoint"/>
+            <mxPoint x="319.5" y="1381" as="sourcePoint"/>
+            <mxPoint x="319.5" y="1441" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NsZce1ZorsWD20Aph8DO-70" value="进库" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="545.5" y="1980" width="60" height="80" as="geometry"/>
+        <mxCell id="NsZce1ZorsWD20Aph8DO-70" value="库" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="1199" width="60" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-73" value="&lt;div&gt;消费失败&lt;/div&gt;&lt;div&gt;找到最后条数据&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505.5" y="1230" width="130" height="100" as="geometry"/>
+          <mxGeometry x="505.5" y="1020" width="130" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-74" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1">
-          <mxGeometry x="-4.5" y="20" width="100" height="100" as="geometry">
-            <mxPoint x="381" y="1280" as="sourcePoint"/>
-            <mxPoint x="506" y="1280" as="targetPoint"/>
+          <mxGeometry x="-4.5" y="-190" width="100" height="100" as="geometry">
+            <mxPoint x="381" y="1070" as="sourcePoint"/>
+            <mxPoint x="506" y="1070" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-76" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=1;exitY=0.5;exitPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1">
-          <mxGeometry x="-4.5" y="20" width="100" height="100" as="geometry">
-            <mxPoint x="636" y="1280" as="sourcePoint"/>
-            <mxPoint x="830" y="1280" as="targetPoint"/>
+          <mxGeometry x="-4.5" y="-190" width="100" height="100" as="geometry">
+            <mxPoint x="636" y="1070" as="sourcePoint"/>
+            <mxPoint x="770" y="1070" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="735.5" y="1280"/>
+              <mxPoint x="735.5" y="1070"/>
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NsZce1ZorsWD20Aph8DO-77" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;开启gocron&lt;br&gt;&lt;/div&gt;&lt;div&gt;检索文件未发送&lt;/div&gt;&lt;div&gt;短息游标位置&lt;/div&gt;&lt;div&gt;继续发送&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="1248" width="110" height="60" as="geometry"/>
-        </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-79" value="&lt;div&gt;接收数据成功&lt;/div&gt;&lt;div&gt;返回Json&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="641" width="120" height="60" as="geometry"/>
+          <mxGeometry x="59.5" y="561" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-80" value="" style="endArrow=classic;html=1;entryX=1.017;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="NsZce1ZorsWD20Aph8DO-79">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="255.5" y="681" as="sourcePoint"/>
-            <mxPoint x="305.5" y="631" as="targetPoint"/>
+            <mxPoint x="255" y="601" as="sourcePoint"/>
+            <mxPoint x="305" y="551" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NsZce1ZorsWD20Aph8DO-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="2570" width="120" height="60" as="geometry"/>
+        <mxCell id="NsZce1ZorsWD20Aph8DO-84" value="&lt;div&gt;不符合条件&lt;/div&gt;&lt;div&gt;过滤消费掉&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1167" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="NsZce1ZorsWD20Aph8DO-85" value="&lt;div&gt;gocron&lt;/div&gt;&lt;div&gt;协程处理100/s&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="803" y="1690" width="130" height="100" as="geometry"/>
+        <mxCell id="NsZce1ZorsWD20Aph8DO-85" value="记录INFO级别日志" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="739.5" y="1440" width="130" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="NsZce1ZorsWD20Aph8DO-86" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.5;exitY=1;exitPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1">
-          <mxGeometry x="548" y="149" width="100" height="100" as="geometry">
-            <mxPoint x="869.5" y="1308" as="sourcePoint"/>
-            <mxPoint x="870" y="1399" as="targetPoint"/>
+        <mxCell id="NsZce1ZorsWD20Aph8DO-86" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1">
+          <mxGeometry x="485" y="-91" width="100" height="100" as="geometry">
+            <mxPoint x="807" y="1090" as="sourcePoint"/>
+            <mxPoint x="807" y="1159" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-87" value="&lt;div&gt;策略&lt;/div&gt;&lt;div&gt;1.频率限制&lt;/div&gt;&lt;div&gt;2.时间范围&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="783" y="1540" width="159" height="80" as="geometry"/>
+          <mxGeometry x="720" y="1300" width="159" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-88" value="&lt;div&gt;24H&lt;/div&gt;&lt;div&gt;限制10条数验证&lt;/div&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="788" y="1400" width="159" height="80" as="geometry"/>
+          <mxGeometry x="725" y="1160" width="159" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="NsZce1ZorsWD20Aph8DO-89" value="&lt;div&gt;不符合条件&lt;br&gt;&lt;/div&gt;&lt;div&gt;过滤掉&lt;/div&gt;" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1022.5" y="1545" width="140" height="70" as="geometry"/>
-        </mxCell>
-        <mxCell id="NsZce1ZorsWD20Aph8DO-90" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.905;exitY=0.5;exitPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1" source="NsZce1ZorsWD20Aph8DO-87" target="NsZce1ZorsWD20Aph8DO-89">
-          <mxGeometry x="542.5" y="1030" width="100" height="100" as="geometry">
-            <mxPoint x="542.5" y="1130" as="sourcePoint"/>
-            <mxPoint x="642.5" y="1030" as="targetPoint"/>
+        <mxCell id="NsZce1ZorsWD20Aph8DO-90" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.905;exitY=0.5;exitPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1">
+          <mxGeometry x="475.5" y="789.5" width="100" height="100" as="geometry">
+            <mxPoint x="860" y="1339.5" as="sourcePoint"/>
+            <mxPoint x="908" y="1340" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NsZce1ZorsWD20Aph8DO-91" value="&lt;div&gt;不符合条件&lt;br&gt;&lt;/div&gt;&lt;div&gt;过滤掉&lt;/div&gt;" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1028.5" y="1400" width="140" height="70" as="geometry"/>
-        </mxCell>
-        <mxCell id="NsZce1ZorsWD20Aph8DO-92" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.905;exitY=0.5;exitPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1" target="NsZce1ZorsWD20Aph8DO-91">
-          <mxGeometry x="548.5" y="885" width="100" height="100" as="geometry">
-            <mxPoint x="932.5" y="1435" as="sourcePoint"/>
-            <mxPoint x="648.5" y="885" as="targetPoint"/>
+        <mxCell id="NsZce1ZorsWD20Aph8DO-92" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.905;exitY=0.5;exitPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1">
+          <mxGeometry x="485.5" y="648.5" width="100" height="100" as="geometry">
+            <mxPoint x="869.5" y="1198.5" as="sourcePoint"/>
+            <mxPoint x="910" y="1199" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-93" style="entryX=0.5;entryY=0;entryPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="869" y="1479" as="sourcePoint"/>
-            <mxPoint x="869" y="1539" as="targetPoint"/>
+            <mxPoint x="806" y="1239" as="sourcePoint"/>
+            <mxPoint x="806" y="1299" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NsZce1ZorsWD20Aph8DO-94" style="entryX=0.5;entryY=0;entryPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="NsZce1ZorsWD20Aph8DO-85">
+        <mxCell id="NsZce1ZorsWD20Aph8DO-94" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="867" y="1620" as="sourcePoint"/>
-            <mxPoint x="867" y="1680" as="targetPoint"/>
+            <mxPoint x="804" y="1380" as="sourcePoint"/>
+            <mxPoint x="805" y="1440" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NsZce1ZorsWD20Aph8DO-97" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="NsZce1ZorsWD20Aph8DO-70">
+        <mxCell id="NsZce1ZorsWD20Aph8DO-97" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="575.5" y="1790" as="sourcePoint"/>
-            <mxPoint x="625.5" y="1740" as="targetPoint"/>
+            <mxPoint x="575.5" y="1540" as="sourcePoint"/>
+            <mxPoint x="576" y="1280" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="NsZce1ZorsWD20Aph8DO-98" value="&lt;div&gt;记录号码条数&lt;/div&gt;&lt;div&gt;Redis Inc&lt;/div&gt;&lt;div&gt;策略频率记录&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="496" y="1830" width="159" height="80" as="geometry"/>
+          <mxGeometry x="505" y="1330" width="135" height="54" as="geometry"/>
+        </mxCell>
+        <mxCell id="NsZce1ZorsWD20Aph8DO-99" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Redis&lt;/div&gt;&lt;div&gt;List RPop 消费&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;协程处理100/s&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259.5" y="1030" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="NsZce1ZorsWD20Aph8DO-101" value="&lt;div&gt;不符合条件&lt;/div&gt;&lt;div&gt;过滤消费掉&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="59.5" y="1309" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="NsZce1ZorsWD20Aph8DO-105" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="NsZce1ZorsWD20Aph8DO-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="571" y="1197" as="sourcePoint"/>
+            <mxPoint x="621" y="1147" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NsZce1ZorsWD20Aph8DO-107" value="&lt;div&gt;不符合条件&lt;/div&gt;&lt;div&gt;过滤掉&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910.5" y="1167" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="NsZce1ZorsWD20Aph8DO-108" value="&lt;div&gt;不符合条件&lt;/div&gt;&lt;div&gt;过滤掉&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1309" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="NsZce1ZorsWD20Aph8DO-109" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;开启gocron&lt;br&gt;&lt;/div&gt;&lt;div&gt;检索文件&lt;/div&gt;&lt;div&gt;未发送游标位置&lt;/div&gt;&lt;div&gt;继续发送100/s&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="766" y="1010" width="121" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
