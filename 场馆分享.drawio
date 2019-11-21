@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-21T03:09:00.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="pdl3JxuiSsMpArIDCvZY" version="12.2.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-21T03:42:06.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="ERYJjlAEimc8kN7YoOOy" version="12.2.7" type="github" pages="1">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1024" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1707" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -370,38 +370,29 @@
             <mxPoint x="131" y="106.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1435" value="Perch" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1781" y="766.5" width="120" height="40" as="geometry"/>
+        <mxCell id="1435" value="全时停场地" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1751" y="886.5" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="1436" value="Mackerel" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1811" y="696.5" width="120" height="40" as="geometry"/>
+        <mxCell id="1436" value="&lt;div&gt;分时停场馆&lt;/div&gt;&lt;div&gt;1、日期顺延&lt;/div&gt;&lt;div&gt;2、当期口减费&lt;/div&gt;&lt;div&gt;3、延后扣减费&lt;/div&gt;&lt;div&gt;4、无补偿&lt;/div&gt;&lt;div&gt;2.0/3.0顺延有差异&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1816" y="682" width="120" height="109" as="geometry"/>
         </mxCell>
-        <mxCell id="1437" value="Tuna" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1936" y="666.5" width="120" height="40" as="geometry"/>
+        <mxCell id="1437" value="全时场馆停课" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2006" y="650" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="1438" value="Shark" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="2056" y="616.5" width="120" height="40" as="geometry"/>
+        <mxCell id="1438" value="停课补偿" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2110" y="721.5" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="1439" value="Whale" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="2101" y="706.5" width="120" height="40" as="geometry"/>
+        <mxCell id="1439" value="单独停某节课" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2150" y="827" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="1440" value="Bass" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="2171" y="786.5" width="120" height="40" as="geometry"/>
+        <mxCell id="1440" value="2.0只能停2.0" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2116" y="956.5" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="1441" value="Eel" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="2121" y="966.5" width="120" height="40" as="geometry"/>
+        <mxCell id="1442" value="3.0只能停3.0" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2006" y="1040.5" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="1442" value="Oyster" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="2181" y="871.5" width="120" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="1443" value="Ray" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1981" y="1016.5" width="120" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="1444" value="Trout" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1856" y="956.5" width="120" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="1445" value="Catfish" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1756" y="891.5" width="120" height="40" as="geometry"/>
+        <mxCell id="1445" value="分时停场地" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1831" y="1010" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1446" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1353" target="1435" edge="1">
           <mxGeometry x="-24" y="196.5" width="100" height="100" as="geometry">
@@ -445,47 +436,29 @@
             <mxPoint x="76" y="196.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1453" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1353" target="1441" edge="1">
-          <mxGeometry x="-24" y="196.5" width="100" height="100" as="geometry">
-            <mxPoint x="-24" y="296.5" as="sourcePoint"/>
-            <mxPoint x="76" y="196.5" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1454" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1353" target="1443" edge="1">
-          <mxGeometry x="-24" y="196.5" width="100" height="100" as="geometry">
-            <mxPoint x="-24" y="296.5" as="sourcePoint"/>
-            <mxPoint x="76" y="196.5" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1455" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1353" target="1444" edge="1">
-          <mxGeometry x="-24" y="196.5" width="100" height="100" as="geometry">
-            <mxPoint x="-24" y="296.5" as="sourcePoint"/>
-            <mxPoint x="76" y="196.5" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1456" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1353" target="1445" edge="1">
           <mxGeometry x="-24" y="196.5" width="100" height="100" as="geometry">
             <mxPoint x="-24" y="296.5" as="sourcePoint"/>
             <mxPoint x="76" y="196.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1457" value="Streptococcus" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1646" y="1087" width="120" height="40" as="geometry"/>
+        <mxCell id="1457" value="每30分钟执行一次脚本" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1646" y="1087" width="134" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="1458" value="Echericia Colli" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1631" y="1301.5" width="120" height="40" as="geometry"/>
+        <mxCell id="1458" value="&lt;div&gt;根据停用开始时间&lt;/div&gt;&lt;div&gt;进行补偿发放&lt;br&gt;&lt;/div&gt;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1661" y="1349" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="1459" value="Lactobacyllus" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1801" y="1114" width="120" height="40" as="geometry"/>
+        <mxCell id="1459" value="&lt;div&gt;基础课(含赠课)&lt;/div&gt;&lt;div&gt;第一次或上一次&lt;/div&gt;&lt;div&gt;签到场馆&lt;br&gt;&lt;/div&gt;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1821" y="1084" width="120" height="54" as="geometry"/>
         </mxCell>
-        <mxCell id="1460" value="Helicobacter" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1460" value="订单补偿规则" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1901" y="1194" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="1461" value="Bifidobacterium" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1821" y="1331.5" width="120" height="40" as="geometry"/>
+        <mxCell id="1461" value="消减月低消补偿规则" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1861" y="1309" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="1462" value="Staphyllococcus" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1551" y="1211.5" width="120" height="40" as="geometry"/>
+        <mxCell id="1462" value="&lt;div&gt;消息通知规则&lt;/div&gt;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="1229" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1463" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1354" target="1460" edge="1">
           <mxGeometry x="251" y="-103.5" width="100" height="100" as="geometry">
@@ -617,13 +590,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1490" value="合同服务" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="340" y="1074" width="120" height="40" as="geometry"/>
+          <mxGeometry x="328.5" y="1111" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1491" value="财务服务" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="452.5" y="1315" width="120" height="40" as="geometry"/>
+          <mxGeometry x="472.5" y="1339" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1492" value="采购服务" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="309.5" y="1207.5" width="120" height="40" as="geometry"/>
+          <mxGeometry x="358.5" y="1254" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1503" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1490" edge="1">
           <mxGeometry x="162.5" y="7.5" width="100" height="100" as="geometry">
@@ -631,10 +604,10 @@
             <mxPoint x="262.5" y="7.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1504" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" edge="1">
-          <mxGeometry x="167.5" y="7.5" width="100" height="100" as="geometry">
-            <mxPoint x="568.9910651158739" y="1240.294323859494" as="sourcePoint"/>
-            <mxPoint x="528.3474576271187" y="1314.9999999999995" as="targetPoint"/>
+        <mxCell id="1504" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;entryX=0.615;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1356" target="1491" edge="1">
+          <mxGeometry x="232.5" y="7" width="100" height="100" as="geometry">
+            <mxPoint x="633.9910651158739" y="1239.794323859494" as="sourcePoint"/>
+            <mxPoint x="593.3474576271187" y="1314.4999999999995" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="1505" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1492" edge="1">
@@ -653,13 +626,13 @@
           <mxGeometry x="312" y="721.5" width="120" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="1517" value="&lt;div&gt;法定节假日&lt;/div&gt;&lt;div&gt;停课时间范围&lt;/div&gt;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="170" y="616.5" width="120" height="40" as="geometry"/>
+          <mxGeometry x="263.5" y="596.5" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1518" value="合同基本信息" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="309.5" y="561.5" width="120" height="40" as="geometry"/>
+          <mxGeometry x="472.5" y="620" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1522" value="场地服务" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="100" y="761.5" width="120" height="40" as="geometry"/>
+          <mxGeometry x="120" y="736.5" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1527" value="合同附件" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="298.5" y="956.5" width="120" height="40" as="geometry"/>
@@ -707,7 +680,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="m_-ITAFp_a6Td66lB08D-1555" value="合同快照" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="448.5" y="916.5" width="120" height="40" as="geometry"/>
+          <mxGeometry x="448.5" y="886.5" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="m_-ITAFp_a6Td66lB08D-1556" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" target="m_-ITAFp_a6Td66lB08D-1555" edge="1">
           <mxGeometry x="-1457.5" y="-330.5" width="100" height="100" as="geometry">
@@ -725,10 +698,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7UvmkdEWLem9C5sfN4BU-1542" value="虚拟场馆" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="726.5" y="1355" width="120" height="120" as="geometry"/>
+          <mxGeometry x="695" y="1326.5" width="120" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="7UvmkdEWLem9C5sfN4BU-1543" value="根据场馆科目变化" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1549" width="130" height="40" as="geometry"/>
+          <mxGeometry x="638.5" y="1529" width="130" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="7UvmkdEWLem9C5sfN4BU-1544" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;exitX=0.265;exitY=0.956;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="7UvmkdEWLem9C5sfN4BU-1542" source="1515">
           <mxGeometry relative="1" as="geometry">
@@ -736,10 +709,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7UvmkdEWLem9C5sfN4BU-1546" value="Topic同步" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1489" width="130" height="40" as="geometry"/>
+          <mxGeometry x="508.5" y="1431.5" width="130" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="7UvmkdEWLem9C5sfN4BU-1548" value="APP场馆地图" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="771.5" y="1535" width="130" height="40" as="geometry"/>
+          <mxGeometry x="833.5" y="1489" width="130" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="7UvmkdEWLem9C5sfN4BU-1549" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" edge="1" parent="1" source="7UvmkdEWLem9C5sfN4BU-1542" target="7UvmkdEWLem9C5sfN4BU-1548">
           <mxGeometry x="-18.5" y="1140" width="100" height="100" as="geometry">
@@ -753,7 +726,7 @@
             <mxPoint x="699.4032258064517" y="1550" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7UvmkdEWLem9C5sfN4BU-1551" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" edge="1" parent="1">
+        <mxCell id="7UvmkdEWLem9C5sfN4BU-1551" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="7UvmkdEWLem9C5sfN4BU-1546">
           <mxGeometry x="-14.5" y="1142" width="100" height="100" as="geometry">
             <mxPoint x="730" y="1400" as="sourcePoint"/>
             <mxPoint x="584" y="1489" as="targetPoint"/>
