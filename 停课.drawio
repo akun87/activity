@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-20T09:17:01.126Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="VlAoFYN3iiBf3DvOkH6A" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-20T09:28:48.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="rpBkbiJUbVJbtmtwSc34" version="12.5.5" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
-    <mxGraphModel dx="2124" dy="1389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2510" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -10,8 +10,8 @@
         <mxCell id="zapqZ-bsOKRsLqHUTUIU-2" value="停场馆" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="560" y="520" width="80" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="zapqZ-bsOKRsLqHUTUIU-3" value="停场地" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="560" y="360" width="80" height="40" as="geometry"/>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-3" value="终止场地时段" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="679" y="440" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="zapqZ-bsOKRsLqHUTUIU-4" value="单独停课" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="440" y="440" width="80" height="40" as="geometry"/>
@@ -180,9 +180,6 @@
         </mxCell>
         <mxCell id="zapqZ-bsOKRsLqHUTUIU-81" value="补偿短息通知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="1320" width="80" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="zapqZ-bsOKRsLqHUTUIU-82" value="&lt;div&gt;编辑时段&lt;/div&gt;&lt;div&gt;删除时段&lt;/div&gt;&lt;div&gt;终止时段&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="685" y="360" width="80" height="200" as="geometry"/>
         </mxCell>
         <mxCell id="zapqZ-bsOKRsLqHUTUIU-85" value="调用big4接口取消排课约课" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="440" width="80" height="40" as="geometry"/>
