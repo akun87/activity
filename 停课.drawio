@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-20T04:07:24.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="w3YWDvxhUVKJCJSA8-G-" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-20T08:52:08.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" etag="8kzlxyUfAa7jk_veO_hI" version="12.5.5" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
     <mxGraphModel dx="2124" dy="1389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -7,13 +7,13 @@
         <mxCell id="zapqZ-bsOKRsLqHUTUIU-1" value="停课" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="560" y="440" width="80" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="zapqZ-bsOKRsLqHUTUIU-2" value="停场馆" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-2" value="停场馆" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="560" y="520" width="80" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="zapqZ-bsOKRsLqHUTUIU-3" value="停场地" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-3" value="停场地" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="560" y="360" width="80" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="zapqZ-bsOKRsLqHUTUIU-4" value="单独停课" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-4" value="单独停课" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="440" y="440" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="zapqZ-bsOKRsLqHUTUIU-5" value="有大班关联不能取消排课" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -46,7 +46,7 @@
         <mxCell id="zapqZ-bsOKRsLqHUTUIU-18" value="顺延租金" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="200" width="80" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="zapqZ-bsOKRsLqHUTUIU-19" value="同周期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-19" value="&lt;div&gt;同周期、创建新场地新时段&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="120" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="zapqZ-bsOKRsLqHUTUIU-23" value="小于当前时间添加10分钟" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -102,6 +102,84 @@
         </mxCell>
         <mxCell id="zapqZ-bsOKRsLqHUTUIU-50" value="退还课时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="155" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-56" value="家长短息" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="80" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-57" value="家长端IM" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="80" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-58" value="微信推送" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-81" y="80" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-59" value="樱木端教练IM" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="80" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-60" value="全时段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="600" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-61" value="分时段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="600" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-62" value="无补偿" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="680" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-63" value="补偿时段" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="680" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-64" value="场租减少" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="680" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-65" value="顺延租金" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="680" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-66" value="&lt;div&gt;同周期、创建新场地新时段&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="639" y="760" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-67" value="小于当前时间添加10分钟" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="842" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-68" value="连续全时停场地" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="559" y="920" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-69" value="连续分时停场地" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="719" y="920" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-70" value="调用big4接口取消排课约课" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="639" y="1000" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-71" value="发送topic（server_doing） 处理取消排课和约课，发送消息通知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1080" width="170" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-72" value="取消排课" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1160" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-73" value="取消约课" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1240" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-74" value="退还课时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1320" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-75" value="消息通知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="639" y="1400" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-76" value="家长短息" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1480" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-77" value="家长端IM" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1480" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-78" value="微信推送" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="1480" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-79" value="樱木端教练IM" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1480" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-80" value="&lt;div&gt;常用场馆补偿&lt;/div&gt;&lt;div&gt;抵消、订单延期&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1320" width="100" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="zapqZ-bsOKRsLqHUTUIU-81" value="补偿短息通知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1320" width="80" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
