@@ -1,1 +1,326 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T09:17:04.439Z" agent="5.0 (Windows)" etag="y1uaDOO-IgC-e0k4HyLg" version="14.5.1" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-08T07:53:37.804Z" agent="5.0 (Windows)" etag="_0vYt-1HsnNzO4COtFxm" version="14.5.1" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1027" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;场地SN与匹配悠络客教室SN&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="失败报警，日志记录、表表记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-3" target="nL1RyNADeptLQGVpGBZy-5" edge="1">
+          <mxGeometry x="-0.2" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="280" y="440" as="sourcePoint" />
+            <mxPoint x="330" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;获取悠络客视频播放token&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="170" y="290" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="失败报警，日志记录、表表记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-0" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="nL1RyNADeptLQGVpGBZy-3" edge="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="220" y="370" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;获取悠络客实时播放链接&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="170" y="410" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-4" value="数据存储" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-5" value="失败报警，日志记录、表表记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-8" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-3" target="nL1RyNADeptLQGVpGBZy-4" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="280" y="460" as="sourcePoint" />
+            <mxPoint x="330" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-9" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="280" y="220" as="sourcePoint" />
+            <mxPoint x="320" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-17" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-18" target="nL1RyNADeptLQGVpGBZy-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-18" value="获取推流任务，每5分钟执行一次" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="-40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-19" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-21" edge="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="220" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-21" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;获取开课前5分钟的排课&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="170" y="50" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-24" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="nL1RyNADeptLQGVpGBZy-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-25" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-27" target="nL1RyNADeptLQGVpGBZy-30" edge="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-26" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-27" target="nL1RyNADeptLQGVpGBZy-28" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-27" value="变更心跳状态" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="170" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-28" value="失败报警，日志记录、表表记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="670" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-30" value="根据上课时长，计算心跳次数，悠络客30秒我们按25秒" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="290" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-31" value="失败报警，日志记录、表表记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="670" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-32" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="570" y="370" as="sourcePoint" />
+            <mxPoint x="570" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-37" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-30" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="630" y="220" as="sourcePoint" />
+            <mxPoint x="670" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-38" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-39" target="nL1RyNADeptLQGVpGBZy-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-39" value="媒体心跳，每20秒执行一次" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="510" y="-40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-40" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-41" edge="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="570" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-41" value="获取可心跳数据" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="50" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-42" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="nL1RyNADeptLQGVpGBZy-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-43" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-45" target="nL1RyNADeptLQGVpGBZy-48" edge="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-44" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-45" target="nL1RyNADeptLQGVpGBZy-46" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-45" value="&lt;div&gt;变更转码数据状态&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="870" y="170" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-46" value="失败报警，日志记录、表表记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1020" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-47" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-51" target="nL1RyNADeptLQGVpGBZy-53" edge="1">
+          <mxGeometry x="-0.2" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="980" y="440" as="sourcePoint" />
+            <mxPoint x="1030" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-48" value="ffmpeg组件开始转码，视频临时保存本地" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="870" y="290" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-49" value="失败报警，日志记录、表表记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1020" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-50" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="nL1RyNADeptLQGVpGBZy-51" edge="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="920" y="370" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-51" value="更新数据" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="870" y="410" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-52" value="退出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="860" y="550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-53" value="失败报警，日志记录、表表记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1020" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-54" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-51" target="nL1RyNADeptLQGVpGBZy-52" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="980" y="460" as="sourcePoint" />
+            <mxPoint x="1030" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-55" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-48" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="980" y="220" as="sourcePoint" />
+            <mxPoint x="1020" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-56" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-57" target="nL1RyNADeptLQGVpGBZy-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-57" value="获取推流任务，每5分钟执行一次" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="860" y="-40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-58" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-59" edge="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="920" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-59" value="&lt;div&gt;获取未转码数据&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="870" y="50" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-61" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-62" target="nL1RyNADeptLQGVpGBZy-64" edge="1">
+          <mxGeometry x="-0.2" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="630" y="440" as="sourcePoint" />
+            <mxPoint x="680" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-62" value="停止心跳" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="410" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-63" value="退出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="510" y="550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-64" value="失败报警，日志记录、表表记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="670" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-65" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-62" target="nL1RyNADeptLQGVpGBZy-63" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="630" y="460" as="sourcePoint" />
+            <mxPoint x="680" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-66" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="nL1RyNADeptLQGVpGBZy-69" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1301" y="115" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-67" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-69" target="nL1RyNADeptLQGVpGBZy-72" edge="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-68" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-69" target="nL1RyNADeptLQGVpGBZy-70" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-69" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;变更转存数据状态&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1251" y="165" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-70" value="失败报警，日志记录、表表记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1401" y="185" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-71" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-75" target="nL1RyNADeptLQGVpGBZy-77" edge="1">
+          <mxGeometry x="-0.2" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1361" y="435" as="sourcePoint" />
+            <mxPoint x="1411" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-72" value="上传OSS" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1251" y="285" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-73" value="失败报警，日志记录、表表记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1401" y="305" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-74" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="nL1RyNADeptLQGVpGBZy-75" edge="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1301" y="365" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-75" value="&lt;div&gt;视频表数据写入&lt;/div&gt;&lt;div&gt;悠络客表变更&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1251" y="405" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-76" value="删除临时保存本地视频，结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1241" y="545" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-77" value="失败报警，日志记录、表表记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1401" y="425" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-78" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-75" target="nL1RyNADeptLQGVpGBZy-76" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1361" y="455" as="sourcePoint" />
+            <mxPoint x="1411" y="455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-79" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-72" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1361" y="215" as="sourcePoint" />
+            <mxPoint x="1401" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-80" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-81" target="nL1RyNADeptLQGVpGBZy-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-81" value="转存业务任务，每5分钟执行一次" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1241" y="-45" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-82" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nL1RyNADeptLQGVpGBZy-83" edge="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1301" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-83" value="&lt;div&gt;获取转存数据&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1251" y="45" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nL1RyNADeptLQGVpGBZy-84" value="悠络客项目推流到视频存储流程图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;fontFamily=Tahoma;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="-200" width="300" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
