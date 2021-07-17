@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-17T10:36:30.951Z" agent="5.0 (Macintosh)" etag="bYtCrRbGGOg0fKnTZNrW" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-17T10:42:11.159Z" agent="5.0 (Macintosh)" etag="gjNzHTo4YLour9TxZdxs" version="14.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="946" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="鉴权规则" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="290" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="&lt;div&gt;Incr 记录成功次数&lt;/div&gt;&lt;div&gt;IncrBy 记录成功总时长&lt;/div&gt;&lt;div&gt;Incr 记录失败次数预警提醒&lt;/div&gt;&lt;div&gt;接口响应不满意预警提醒&lt;/div&gt;&lt;div&gt;接口响应不满意Incr 记录不满意次数&lt;/div&gt;&lt;div&gt;接口响应不满意预警提醒&lt;/div&gt;&lt;div&gt;接口响应不满意IncrBy 记录不满意总时长&lt;/div&gt;&lt;div&gt;&lt;div&gt;接口有配置缓存，插入缓存set&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="&lt;div&gt;Incr 记录成功次数&lt;/div&gt;&lt;div&gt;IncrBy 记录成功总时长&lt;/div&gt;&lt;div&gt;Incr 记录失败次数预警提醒&lt;/div&gt;&lt;div&gt;接口响应不满意预警提醒&lt;/div&gt;&lt;div&gt;接口响应不满意预警，Incr 记录不满意次，IncrBy统计不满意总时长&lt;/div&gt;&lt;div&gt;&lt;div&gt;接口配置有设置缓存，插入缓存set&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="90" y="1129" width="290" height="161" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="鉴权失败错误提示" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -91,7 +91,7 @@
             <mxPoint x="220" y="731" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rdVBgvrYhWumlEjB14Zt-13" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;是否有TOKEN JWT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="rdVBgvrYhWumlEjB14Zt-13" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;验证是否有&lt;/div&gt;&lt;div&gt;TOKEN JWT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="771" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rdVBgvrYhWumlEjB14Zt-14" value="&lt;div&gt;TOKEN JWT 校验&lt;/div&gt;&lt;div&gt;失败提示&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -117,7 +117,7 @@
         <mxCell id="rdVBgvrYhWumlEjB14Zt-18" value="&lt;div&gt;接口数据&lt;/div&gt;&lt;div&gt;是否有缓存&lt;/div&gt;&lt;div&gt;set&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="890" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rdVBgvrYhWumlEjB14Zt-19" value="&lt;div&gt;有缓存读缓存&lt;/div&gt;&lt;div&gt;Incr 记录缓存次数&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="rdVBgvrYhWumlEjB14Zt-19" value="&lt;div&gt;有缓存读缓存&lt;/div&gt;&lt;div&gt;Incr 记录读缓存次数&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="910" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rdVBgvrYhWumlEjB14Zt-20" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rdVBgvrYhWumlEjB14Zt-19" edge="1">
