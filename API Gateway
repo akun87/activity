@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-17T10:42:11.159Z" agent="5.0 (Macintosh)" etag="gjNzHTo4YLour9TxZdxs" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-17T11:15:46.163Z" agent="5.0 (Macintosh)" etag="5ktoiEbRtmP-FZUF7N01" version="14.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="946" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,7 +77,7 @@
         <mxCell id="rdVBgvrYhWumlEjB14Zt-9" value="&lt;div&gt;读取API&lt;/div&gt;&lt;div&gt;缓存配置&lt;/div&gt;&lt;div&gt;hget&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="650" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rdVBgvrYhWumlEjB14Zt-10" value="缓存节点1失败，读取缓存节点2，缓存节点失败，读取DB，预警" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="rdVBgvrYhWumlEjB14Zt-10" value="缓存1失败，读取缓存2，缓存2失败，读取DB，每次预警" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="670" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rdVBgvrYhWumlEjB14Zt-11" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rdVBgvrYhWumlEjB14Zt-9" target="rdVBgvrYhWumlEjB14Zt-10" edge="1">
@@ -140,6 +140,9 @@
         </mxCell>
         <mxCell id="rdVBgvrYhWumlEjB14Zt-23" value="请求http接口" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="1010" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5rRQEH-cnmLkb9y4DWXc-0" value="&lt;div&gt;次日凌晨1点数据统计&lt;/div&gt;&lt;div&gt;1、记录接口请求次数&lt;/div&gt;&lt;div&gt;2、记录接口请求总时长&lt;/div&gt;&lt;div&gt;3、记录不满意次数&lt;/div&gt;&lt;div&gt;4、记录不满意总时长&lt;br&gt;&lt;/div&gt;&lt;div&gt;5、记录失败次数&lt;/div&gt;&lt;div&gt;6、记录从缓存请求次数&lt;/div&gt;&lt;div&gt;清空缓存&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="580" y="90" width="240" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
