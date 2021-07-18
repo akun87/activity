@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-16T08:53:09.823Z" agent="5.0 (Windows)" etag="6KpOUi6Znb9PSq6ji80M" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-18T06:20:13.114Z" agent="5.0 (Macintosh)" etag="foIznds911TO0Y7Kk0zR" version="14.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1038" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -470,7 +470,7 @@
             <mxPoint x="794" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0bjOh-ZAw8xZhWOC9iSP-0" value="&lt;div&gt;1、每5分钟主动拉取未同步的短信，1000条&lt;/div&gt;&lt;div&gt;2、每5分钟启动策略时段过滤规则重发&lt;/div&gt;&lt;div&gt;3、监测报警提示：&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 监控短信队列5分钟积压超过1000条预警&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 微信公众号队列5分钟积压超过1000条预警&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 监控短信5分钟失败量达50条预警&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 监测到手机号5分钟发出大于3条预警&lt;/div&gt;&lt;div&gt;4、每10分钟或每次刷新模板页面主动同步待审核短信模板&lt;/div&gt;&lt;div&gt;5、补漏每天凌晨1点同步上一天未同步的短息内容&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="0bjOh-ZAw8xZhWOC9iSP-0" value="&lt;div&gt;1、每5分钟主动拉取未同步的短信，1000条&lt;/div&gt;&lt;div&gt;2、每5分钟启动策略时段过滤规则重发&lt;/div&gt;&lt;div&gt;3、监测报警提示：&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 监控短信队列5分钟积压超过1000条预警&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 微信公众号队列5分钟积压超过1000条预警&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 监控短信5分钟失败量达50条预警&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 监测到手机号5分钟发出大于3条预警&lt;/div&gt;&lt;div&gt;4、每10分钟或每次刷新模板页面主动同步待审核短信模板&lt;/div&gt;&lt;div&gt;5、补漏每天凌晨1点同步上一天未同步的短息内容&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1140" y="160" width="310" height="160" as="geometry" />
         </mxCell>
       </root>
